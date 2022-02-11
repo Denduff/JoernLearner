@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b48cf6ae-a126-4a49-a15b-82de83592ba6": {
+      "ProjectGuid": "b48cf6ae-a126-4a49-a15b-82de83592ba6",
+      "DisplayName": "LearnCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
